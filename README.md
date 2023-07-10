@@ -1,6 +1,6 @@
 # logic-exercises
 
-!Node.js or any other Javascript interpreter will be required to run this file!
+**Node.js or any other Javascript interpreter will be required to run this file**
 
 ## Examples
 
